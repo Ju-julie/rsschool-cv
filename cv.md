@@ -1,8 +1,8 @@
 # Julia Karpova
 
 ## Contact information:
-**Discord** Julia K (@Ju-julie)
-**E-mail** jkarrrpova@gmail.com
+* **Discord** Julia K (@Ju-julie)
+* **E-mail** jkarrrpova@gmail.com
 
 ## About me:
 My whole career way (and this is more than 10 years) is connected with the development of projects for the preservation, restoration and reconstruction of architectural and cultural heritage objects. 
@@ -25,7 +25,7 @@ I'll add it later...
 ## Courses:
 * Hexlet
     * HTML5, CSS3 Basics
-    * JavaScrypt Basics
+    * JavaScript Basics
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages:
