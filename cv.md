@@ -1,8 +1,8 @@
 # Julia Karpova
 
 ## Contact information:
-* **Discord** Julia K (@Ju-julie)
-* **E-mail** jkarrrpova@gmail.com
+* **Discord (rs-school):** Julia K (@Ju-julie)
+* **E-mail:** jkarrrpova@gmail.com
 
 ## About me:
 My whole career way (and this is more than 10 years) is connected with the development of projects for the preservation, restoration and reconstruction of architectural and cultural heritage objects. 
